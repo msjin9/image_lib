@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1659682724 source:/Users/jinmin/Desktop/ImageProcessing/main.cpp
+	<iostream>
+	"ImageProcessing.h"
+
+1659682362 /Users/jinmin/Desktop/ImageProcessing/include/ImageProcessing.h
+
+1659683726 source:/Users/jinmin/Desktop/ImageProcessing/src/ImageProcessing.cpp
+	"ImageProcessing.h"
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+
